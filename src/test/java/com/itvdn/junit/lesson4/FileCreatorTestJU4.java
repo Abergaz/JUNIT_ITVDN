@@ -8,7 +8,7 @@ import java.io.IOException;
 import static org.junit.Assert.assertNotEquals;
 import static org.junit.Assert.fail;
 
-public class FileCreatorTest {
+public class FileCreatorTestJU4 {
     @Test(expected = IOException.class)
     public void testByAnnotationTest() throws IOException{
         FileCreator.createTempFile();

@@ -4,14 +4,14 @@ import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class SecondClassTest {
+public class SecondClassTestJU4 {
     @BeforeClass
     public static void beforeClass() {
-        System.out.println("Before SecondClassTest.class");
+        System.out.println("Before SecondClassTestJU4.class");
     }
     @AfterClass
     public static void afterClass(){
-        System.out.println("After SecondClassTest.class");
+        System.out.println("After SecondClassTestJU4.class");
     }
     @Test
     public void test(){

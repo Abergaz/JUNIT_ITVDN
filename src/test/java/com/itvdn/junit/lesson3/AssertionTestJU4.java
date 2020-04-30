@@ -8,7 +8,7 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-public class AssertionTest {
+public class AssertionTestJU4 {
 
     @Test
     public void whenAssertionEquality_thenEqual() {

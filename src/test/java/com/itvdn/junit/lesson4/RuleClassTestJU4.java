@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.*;
 
-public class RuleClassTest {
+public class RuleClassTestJU4 {
     @Rule
     public TemporaryFolder temporaryFolder = new TemporaryFolder();
     @Test
